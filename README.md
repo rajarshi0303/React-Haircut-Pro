@@ -1,28 +1,27 @@
-# React-Haircut-Pro
+# ✂️ React-Haircut-Pro
 
 React-Haircut-Pro is a comprehensive web application designed for hair salons. It allows users to explore services, view barbers, check working times, see service prices, fill out a contact form, and book appointments with ease. The application aims to enhance the user experience by providing an intuitive and visually appealing interface for managing and scheduling salon services.
 
 ## ✨ Features
-* Services: A detailed list of hair services offered by your salon, including descriptions and pricing.
-* Skilled Barber Profiles: Showcase your talented barbers highlighting their expertise.
-* Working Time: View the salon’s working hours.
-* Service Prices: Check the pricing for different services.
-* Appointment Booking: Book an appointment online seamlessly.
-* Streamlined Contact Form: Provide a contact form for customer inquiries.
+* 🛎️ Services: A detailed list of hair services offered by your salon, including descriptions and pricing.
+* 👨‍🎨 Skilled Barber Profiles: Showcase your talented barbers highlighting their expertise.
+* 🕒 Working Time: View the salon’s working hours.
+* 💵 Service Prices: Check the pricing for different services.
+* 📅 Appointment Booking: Book an appointment online seamlessly.
+* 📞 Streamlined Contact Form: Provide a contact form for customer inquiries.
 
 ## 🛠️ Technologies Used
-* React.js (UI Library) 
-* Tailwind CSS (Styling)
-* Framer-motion (Animatons)
-* Axios (API Calls)
-* React-Router (Navigation)
-
+* ⚛️ React.js (UI Library)
+* 🎨 Tailwind CSS (Styling)
+* 🎞️ Framer Motion (Animations)
+* 🌐 Axios (API Calls)
+* 🧭 React Router (Navigation)
 
 ## Getting Started
 
-### Prerequisites
-* Node.js
-* npm
+### 🛠️ Prerequisites
+* 🟢 Node.js
+* 📦 npm
 
 ### Installation
 Clone the repository:
