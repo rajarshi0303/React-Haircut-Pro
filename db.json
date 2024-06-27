@@ -1,0 +1,133 @@
+{
+  "slider": [
+    {
+      "id": "1",
+      "title": "We will give you a awesom look",
+      "url": "/public/images/carousel-1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "luxury haircut at affordable price",
+      "url": "/public/images/carousel-2.jpg"
+    }
+  ],
+  "barders": [
+    {
+      "id": "1",
+      "url": "public/images/team-1.jpg",
+      "name": "John Doe",
+      "designation": "Hair Cutting"
+    },
+    {
+      "id": "2",
+      "url": "public/images/team-2.jpg",
+      "name": "Walter White",
+      "designation": "Beard Treamig"
+    },
+    {
+      "id": "3",
+      "url": "public/images/team-3.jpg",
+      "name": "Jhonson leo",
+      "designation": "Hair Cutting"
+    },
+    {
+      "id": "4",
+      "url": "public/images/team-4.jpg",
+      "name": "William Anderson",
+      "designation": "Hair Dyeing"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "url": "public/images/haircut.png",
+      "title": "HairCut",
+      "description": "Filler text is dummy text which has no meaning however looks very similar to real text.",
+      "price": 20
+    },
+    {
+      "id": "2",
+      "url": "public/images/beard-trim.png",
+      "title": "beard trim",
+      "description": "Filler text is dummy text which has no meaning however looks very similar to real text.",
+      "price": 16
+    },
+    {
+      "id": "3",
+      "url": "public/images/mans-shave.png",
+      "title": "mans shave",
+      "description": "Filler text is dummy text which has no meaning however looks very similar to real text.",
+      "price": 15
+    },
+    {
+      "id": "4",
+      "url": "public/images/hair-dyeing.png",
+      "title": "Hair dyeing",
+      "description": "Filler text is dummy text which has no meaning however looks very similar to real text.",
+      "price": 30
+    },
+    {
+      "id": "5",
+      "url": "public/images/mustache.png",
+      "title": "mustache",
+      "description": "Filler text is dummy text which has no meaning however looks very similar to real text.",
+      "price": 25
+    },
+    {
+      "id": "6",
+      "url": "public/images/stacking.png",
+      "title": "stacking",
+      "description": "Filler text is dummy text which has no meaning however looks very similar to real text.",
+      "price": 10
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "url": "/public/images/testimonial-1.jpg",
+      "name": "John",
+      "message": "Filler text is dummy text which has no meaning however looks very similar to real text."
+    },
+    {
+      "id": "2",
+      "url": "/public/images/testimonial-2.jpg",
+      "name": "Ram",
+      "message": "Filler text is dummy text which has no meaning however looks very similar to real text."
+    },
+    {
+      "id": "3",
+      "url": "/public/images/testimonial-3.jpg",
+      "name": "Dam",
+      "message": "Filler text is dummy text which has no meaning however looks very similar to real text."
+    }
+  ],
+  "contact": [
+    {
+      "id": "8566",
+      "name": "rajarshi",
+      "email": "Raj@gmail",
+      "subject": "yooo",
+      "message": "Haa Haahaaa HooHoo"
+    }
+  ],
+  "appointment": [
+    {
+      "id": "039d",
+      "name": "Rajarshi Software Engineer Patel",
+      "email": "rajarshi0303@gmail.com",
+      "date": "2002-03-03",
+      "time": "10:00",
+      "adult": "1",
+      "child": "2",
+      "services": {
+        "haircut": true,
+        "beardtrim": true,
+        "mansshave": false,
+        "hairdyeing": false,
+        "mustache": true,
+        "stacking": false
+      },
+      "message": "Raju Bhai REquested"
+    }
+  ]
+}
