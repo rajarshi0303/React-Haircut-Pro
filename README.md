@@ -3,7 +3,7 @@
 React-Haircut-Pro is a comprehensive web application designed for hair salons. It allows users to explore services, view barbers, check working times, see service prices, fill out a contact form, and book appointments with ease. The application aims to enhance the user experience by providing an intuitive and visually appealing interface for managing and scheduling salon services.
 
 <p float="left">
-<img src="https://github.com/rajarshi0303/React-Haircut-Pro/assets/128988468/c696b375-c399-4e8b-a782-bef58faaf5cd" width="350" height="480" hspace="5" />
+<img src="https://github.com/rajarshi0303/React-Haircut-Pro/assets/128988468/c696b375-c399-4e8b-a782-bef58faaf5cd" width="380" height="480" hspace="5" />
 <img src="https://github.com/rajarshi0303/React-Haircut-Pro/assets/128988468/abda6262-a67a-4d08-9822-4d1db170610b" width="430" height="480" />
 </p>
 
